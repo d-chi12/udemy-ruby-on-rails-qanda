@@ -1,0 +1,37 @@
+Started GET "/" for ::1 at 2020-04-24 10:42:39 +0900
+  [1m[35m (4.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 16.7ms | Allocations: 409)
+Completed 200 OK in 52ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 2470)
+
+
+Started GET "/" for ::1 at 2020-04-24 10:47:49 +0900
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 8.5ms | Allocations: 296)
+Completed 200 OK in 32ms (Views: 13.2ms | ActiveRecord: 0.0ms | Allocations: 1647)
+
+
+Started GET "/" for ::1 at 2020-04-24 10:52:09 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.9ms | Allocations: 179)
+Completed 200 OK in 19ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 778)
+
+
+Started GET "/" for ::1 at 2020-04-24 10:52:10 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 7)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 300)
+
+
+Started GET "/" for ::1 at 2020-04-24 10:52:10 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/user/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/railties-6.0.2.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 8)
+Completed 200 OK in 3ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 301)
+
+
